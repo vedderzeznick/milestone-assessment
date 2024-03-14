@@ -1,0 +1,14 @@
+/Users/vedderzeznick/Documents/milestone-assignment/app/bin/Debug/net8.0/app
+/Users/vedderzeznick/Documents/milestone-assignment/app/bin/Debug/net8.0/app.deps.json
+/Users/vedderzeznick/Documents/milestone-assignment/app/bin/Debug/net8.0/app.runtimeconfig.json
+/Users/vedderzeznick/Documents/milestone-assignment/app/bin/Debug/net8.0/app.dll
+/Users/vedderzeznick/Documents/milestone-assignment/app/bin/Debug/net8.0/app.pdb
+/Users/vedderzeznick/Documents/milestone-assignment/app/obj/Debug/net8.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vedderzeznick/Documents/milestone-assignment/app/obj/Debug/net8.0/app.AssemblyInfoInputs.cache
+/Users/vedderzeznick/Documents/milestone-assignment/app/obj/Debug/net8.0/app.AssemblyInfo.cs
+/Users/vedderzeznick/Documents/milestone-assignment/app/obj/Debug/net8.0/app.csproj.CoreCompileInputs.cache
+/Users/vedderzeznick/Documents/milestone-assignment/app/obj/Debug/net8.0/app.dll
+/Users/vedderzeznick/Documents/milestone-assignment/app/obj/Debug/net8.0/refint/app.dll
+/Users/vedderzeznick/Documents/milestone-assignment/app/obj/Debug/net8.0/app.pdb
+/Users/vedderzeznick/Documents/milestone-assignment/app/obj/Debug/net8.0/app.genruntimeconfig.cache
+/Users/vedderzeznick/Documents/milestone-assignment/app/obj/Debug/net8.0/ref/app.dll
